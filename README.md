@@ -10,4 +10,5 @@ To run this you should have flutter and dart on your pc
 then run the command 
 - flutter pub get  
 - flutter run
+
 in the root dir of the project
