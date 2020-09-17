@@ -1,17 +1,13 @@
 # meters
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # Lagos_Smart_meter
+
+this is a project for the 2020 Lagos Smart Meter Hackathon
+
+this repo contains the code for the mobile app
+
+To run this you should have flutter and dart on your pc 
+then run the command 
+- flutter pub get  
+- flutter run
+in the root dir of the project
